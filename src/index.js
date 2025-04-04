@@ -1,6 +1,6 @@
 const express = require("express");
 
-const config = require("./config/config.json");
+const config = require("../config/config.json");
 
 const apiRoutes = require("./routes");
 
